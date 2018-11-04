@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div#nav {
+    margin-bottom: 40px;
+    background-color: ;
+
+}
+
+div#nav .collapse {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+}
+
+div#nav a {
+    color: black;
+    position: relative;
+}
+
+div#nav a:hover {
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    transition: 3s;
+}
+
+#about .left {
+    margin-top: 200px;
+}
+
+#servis .right img {
+    margin-left: 30%;
+}
+
+div#porto {
+    width: 100%;
+}
+
+
+div#blog .col-md-4 div{
+    margin: 10px;
+    box-sizing: border-box;
+    background-color: red;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
